@@ -22,11 +22,12 @@ namespace Computer_Facade
         }
         public void Starting_Pc()
         {
-            Console.WriteLine("Building new Computer............");
+            Console.WriteLine("......initializing  Computer............");
             power_supply.startPowerSupply();
             Mother_board.connectingElemetes();
             Ssd.startSSD();
             graphic_card.startGRaphicCard();
+            Console.WriteLine("......computer ON!............");
         }
     }
    

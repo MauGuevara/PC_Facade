@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Patrones de diseño\\Computer Facade\\Computer Facade\\Computer Facade.csproj",
+      "projectUniqueName": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Patrones de diseño\\PC_Facade\\Computer Facade\\Computer Facade\\Computer Facade.csproj",
       "projectName": "Computer Facade",
-      "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Patrones de diseño\\Computer Facade\\Computer Facade\\Computer Facade.csproj",
+      "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Patrones de diseño\\PC_Facade\\Computer Facade\\Computer Facade\\Computer Facade.csproj",
       "packagesPath": "C:\\Users\\Mau\\.nuget\\packages\\",
-      "outputPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Patrones de diseño\\Computer Facade\\Computer Facade\\obj\\",
+      "outputPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Patrones de diseño\\PC_Facade\\Computer Facade\\Computer Facade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mau\\AppData\\Roaming\\NuGet\\NuGet.Config",
