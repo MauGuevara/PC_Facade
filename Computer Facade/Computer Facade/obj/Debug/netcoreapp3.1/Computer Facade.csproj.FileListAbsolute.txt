@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\obj\Debug\netcoreapp3.1\Computer Facade.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\obj\Debug\netcoreapp3.1\Computer Facade.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\obj\Debug\netcoreapp3.1\Computer Facade.AssemblyInfo.cs
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\obj\Debug\netcoreapp3.1\Computer Facade.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\bin\Debug\netcoreapp3.1\Computer Facade.exe
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\bin\Debug\netcoreapp3.1\Computer Facade.deps.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\bin\Debug\netcoreapp3.1\Computer Facade.runtimeconfig.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\bin\Debug\netcoreapp3.1\Computer Facade.runtimeconfig.dev.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\bin\Debug\netcoreapp3.1\Computer Facade.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\bin\Debug\netcoreapp3.1\Computer Facade.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\obj\Debug\netcoreapp3.1\Computer Facade.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\obj\Debug\netcoreapp3.1\Computer Facade.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Computer Facade\Computer Facade\obj\Debug\netcoreapp3.1\Computer Facade.genruntimeconfig.cache
